@@ -1,0 +1,57 @@
+"astrocast_region		",index_id,landsat
+"Baringo_Z24	",0,0
+"Baringo_Z24_RBFP_a  	",1,1
+Baringo_Z24_RBFP_an_tri,2,1
+Elgeyo_Marakwet_Z24,3,0
+Garsa_Z10,4,0
+Isiolo_Z10,5,0
+Isiolo_Z10_RBFP_an,6,1
+Isiolo_Z10_RBFP_an_trip,7,1
+Isiolo_Z24,8,0
+Isiolo_Z5,9,0
+Isiolo_Z9 ,10,0
+Kajiado_Z15,11,0
+Kajiado_Z18,12,0
+Laikipia_Z24,13,0
+Mandera_Z7,14,0
+Mandera_Z9,15,0
+Marsabit_Z5,16,0
+Marsabit_Z7,17,0
+Narok_Z15,18,0
+Narok_Z18,19,0
+oldBaringo_Z24,20,0
+oldIsiolo_Z10,21,0
+Samburu_Z24,22,0
+Samburu_Z5,23,0
+TanaRiver_Z11,24,0
+Turkana_Z1,25,0
+Turkana_Z24,26,0
+Turkana_Z3,27,0
+Wajir_Z10,28,0
+Wajir_Z7,29,0
+Wajir_Z9,30,0
+WestPokot_Z1,31,0
+WestPokot_Z24,32,0
+Kajiado,33,0
+Marsabit,34,0
+Samburu,35,0
+Garissa,36,0
+Isiolo,37,0
+Kitui,38,0
+Tharaka-Nithi,39,0
+NYERI,40,0
+NAROK,41,0
+LAMU,42,0
+LAIKIPIA,43,0
+KWALE,44,0
+KILIFI,45,0
+EMBU,46,0
+TanaRiver,47,0
+Makueni,48,0
+TaitaTaveta,49,0
+WEST POKOT,50,0
+TURKANA,51,0
+BARINGO,52,0
+Mandera,53,0
+Meru,54,0
+Wajir,55,0
